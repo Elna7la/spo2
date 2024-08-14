@@ -1,3 +1,4 @@
+
 # SpO₂
 
 SpO₂ is a monitor for any program using the HTTP protocol. For more detail and background, see the [blog post announcing the release of the project](https://blog.meilisearch.com/spo2-the-little-dynamic-monitoring-tool/). 
